@@ -10,6 +10,8 @@ print "select operator Using letter \n
     d = ÷  \n
     select letter: "
     operator = gets.chomp
+
+    
 def process (first, second, o)
     if o == "a" 
         return first + second
