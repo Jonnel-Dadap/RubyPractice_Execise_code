@@ -27,4 +27,4 @@ def process (first, second, o)
 end
              
 result = process(firstInput, secondInput, operator)
-puts "Result: #{result}"
+puts "Total: #{result}"

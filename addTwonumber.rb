@@ -13,4 +13,4 @@ number2 = gets.chomp.to_i
 
 sum = number1 * number2
 
-puts "The total of two number is: #{sum}"
+puts "The total of two number: #{sum}"
